@@ -1,4 +1,5 @@
 import axios from "axios";
+require("dotenv").config();
 
 const searchImages = async (term) => {
   const response = await axios.get("https://api.unsplash.com/search/photos", {
