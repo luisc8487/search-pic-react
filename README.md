@@ -2,6 +2,8 @@
 
 This project is a simple web application that allows users to search for images using Unsplash's API. Users can input a search term, and the application will fetch and display relevant images from Unsplash. The project demonstrates how to handle text inputs in React, manage state, and make API requests using Axios. The application is styled using CSS.
 
+![unsplashAPI](https://github.com/user-attachments/assets/2408e45f-f915-407d-bb94-e5b9f8935126)
+
 ## Features
 
 - **Search for Images**: Users can type a search term to find images related to their input.
