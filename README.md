@@ -131,3 +131,29 @@ The application is styled using CSS for a clean and responsive design.
 }
 ```
 
+## How to Run the Project
+
+### 1. Clone the Repository
+
+```luna
+git clone git@github.com:luisc8487/search-pic-react.git
+cd pics
+```
+
+### 2. Install Dependencies:
+
+```luna
+npm install
+```
+
+### 3. Set Up Environment Variables:
+
+- Create a .env file in the root of the project.
+- Add your Unsplash API key:
+  `REACT_APP_SECRET=your_api_key_here`
+
+### 4. Start the Development Server:
+
+`npm start`
+
+### 5. Open your browser and navigate to `htttp://localhost:3000`
