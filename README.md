@@ -148,7 +148,7 @@ npm install
 
 ### 3. Set Up Environment Variables:
 
-- Create a .env file in the root of the project.
+- Create a `.env` file in the root of the project.
 - Add your Unsplash API key:
   `REACT_APP_SECRET=your_api_key_here`
 
